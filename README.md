@@ -102,8 +102,7 @@ The main objectives of this project are to:
                     │  Attendance Records  │
                     └──────────────────────┘
 
-
-### 📁 Project Structure
+ **📁 Project Structure**
 AI-Based-Smart-Attendance-Management-System/
 │
 ├── backend/
