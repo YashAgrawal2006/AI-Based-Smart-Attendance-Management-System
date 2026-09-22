@@ -102,7 +102,7 @@ The main objectives of this project are to:
                     │  Attendance Records  │
                     └──────────────────────┘
 
- **📁 Project Structure**
+#📁 Project Structure
 AI-Based-Smart-Attendance-Management-System/
 │
 ├── backend/
@@ -171,7 +171,7 @@ AI-Based-Smart-Attendance-Management-System/
 ├── .env.example
 └── README.md
 
-### 👨‍💻 Author
+#👨‍💻 Author
 Yash Agrawal
 
 B.Tech — Computer Science & Engineering
@@ -179,7 +179,7 @@ B.Tech — Computer Science & Engineering
 GitHub:
 https://github.com/YashAgrawal2006
 
-### ⭐ Support
+###⭐ Support
 
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
 
