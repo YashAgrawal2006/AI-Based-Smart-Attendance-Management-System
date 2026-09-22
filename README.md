@@ -103,9 +103,9 @@ The main objectives of this project are to:
                     └──────────────────────┘
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
----text
+```text
 AI-Based-Smart-Attendance-Management-System/
 │
 ├── backend/
@@ -173,20 +173,3 @@ AI-Based-Smart-Attendance-Management-System/
 ├── .gitignore
 ├── .env.example
 └── README.md
----
-
-##👨‍💻 Author
-
----text
-Yash Agrawal
-
-B.Tech — Computer Science & Engineering
-
-GitHub:
-https://github.com/YashAgrawal2006
----
-
-##⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
-
